@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-int mian()
+int main()
 {
     float true_value, absolute_value;
 
@@ -14,4 +14,5 @@ int mian()
     percentage_error = relative_error * 100;
 
     printf("Absolute Error = %f \n Relative Error = %f \n Percentage Error = %f", absolute_error, relative_error, percentage_error);
+    return 0;
 }
