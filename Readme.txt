@@ -4,7 +4,7 @@ Bisection Method (with allowed error concept)
 Regula Falsi Method
 Fixed Point Iteration  Method
 Newton Raphson Method
-Secant Method
+//Secant Method 
 Gauss Elimination Method
 Gauss Seidel Method
 Gauss Jordan Method
