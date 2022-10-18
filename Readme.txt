@@ -9,3 +9,4 @@ Gauss Jordan Method
 //This Repository include Programs for following Numericals methods
 notes for V sem
 https://drive.google.com/drive/folders/1gJUCUuwSA40Tp8OEbM1Ne_95akwNPaej
+https://drive.google.com/drive/folders/0ByssYdG6YTB4NmNHOV8wcXhlLW8?resourcekey=0-BQo2zzhd2aY_fPqPyha_cg
