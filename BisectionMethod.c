@@ -14,7 +14,7 @@ float bisect(float x1,float x2)
 int main()
 {
     int maxIteration,i=1;
-    float x1,x2,x3,x;
+    float x1,x2,x3,x;hello
     printf("Enter Maximum no of Iterations\n");
     scanf("%d",&maxIteration);
     
