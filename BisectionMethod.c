@@ -4,7 +4,7 @@
 #define EPSILON 0.0001
 float findValueAt(float x)
 {
-   return x*x*x - 2*x -5;
+   return exp(x)+cos(x)-1;
 }
 
 float bisect(float x1,float x2)
