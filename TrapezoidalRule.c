@@ -9,7 +9,6 @@ int main()
 {
  float lower, upper, integration=0.0, stepSize, k;
  int i, subInterval;
- clrscr();
  /* Input */
  printf("Enter lower limit of integration: ");
  scanf("%f", &lower);

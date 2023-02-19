@@ -26,16 +26,16 @@ int main()
  for(i=1; i<= subInterval-1; i++)
  {
   k = lower + i*stepSize;
-  if(i%2==0)
+  if(i%3 == 0)
   {
    integration = integration + 2 * f(k);
   }
   else
   {
-   integration = integration + 4 * f(k);
+   integration = integration + 3 * f(k);
   }
  }
- integration = integration * stepSize/3;
+ integration = integration * stepSize*3/8;
  printf("\nRequired value of integration is: %.3f", integration);
  getch();
  return 0;
